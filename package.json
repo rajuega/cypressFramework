@@ -6,11 +6,12 @@
   "scripts": {
     "cy:open": "cypress open",
     "cy.run": "npx cypress run --record --key 22ba75fe-8db0-4edf-b30f-9c4737bf3430",
-    "test": "npx cypress run --record --key 22ba75fe-8db0-4edf-b30f-9c4737bf3430 --parallel"
+    "test": "npx cypress run --record --key 22ba75fe-8db0-4edf-b30f-9c4737bf3430"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "cypress": "^4.0.1"
-  }
+  },
+  "dependencies": {}
 }
