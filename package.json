@@ -6,7 +6,7 @@
   "scripts": {
     "cy:open": "cypress open",
     "cy.run": "npx cypress run --record --key 22ba75fe-8db0-4edf-b30f-9c4737bf3430",
-    "test": "npx cypress run --record --key 22ba75fe-8db0-4edf-b30f-9c4737bf3430"
+    "test": "npx cypress run --record --key 22ba75fe-8db0-4edf-b30f-9c4737bf3430 --parallel"
   },
   "author": "",
   "license": "ISC",
