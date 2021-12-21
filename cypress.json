@@ -1,0 +1,7 @@
+{
+    "projectId": "2kna32",
+    "video": true,
+    "videoUploadOnPasses": false,
+    "retries": 1,
+    "screenshotOnRunFailure": true
+}
